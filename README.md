@@ -1,4 +1,4 @@
-# Swift-MapAnnoation
+# Tap to change pin location (supports pan)
 
 swift 4.x example
 
