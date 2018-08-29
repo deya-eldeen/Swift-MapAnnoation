@@ -1,6 +1,6 @@
 # Swift-MapAnnoation
 
-swift 2.2 example
+swift 4.x example
 
 1- tap to change annotation location
 
